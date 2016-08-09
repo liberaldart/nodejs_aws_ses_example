@@ -1,1 +1,6 @@
-#aws credentials are kept at ~/.aws/credentials
+#aws credentials are kept at ~/.aws/credentials, which is not part of the repository
+
+To start the server
+
+One time: npm install
+Every time: node index.js
