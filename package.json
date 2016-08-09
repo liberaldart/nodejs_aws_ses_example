@@ -1,0 +1,20 @@
+{
+  "name": "eagree_node_server",
+  "version": "1.0.0",
+  "description": "utility server for eagree nodejs",
+  "main": "index.js",
+  "dependencies": {
+    "aws-sdk": "^2.4.13",
+    "body-parser": "^1.15.2",
+    "cors": "^2.7.1",
+    "express": "^4.14.0",
+    "node-ses": "^1.2.0",
+    "properties-parser": "^0.3.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "karma start"
+  },
+  "author": "aksinghdce@gmail.com",
+  "license": "ISC"
+}
